@@ -1,0 +1,44 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+body {
+  background-color: #bcd0e4;
+}
+
+  h1 {
+    color: #48093d;
+    font-family: sans-serif;
+  }
+  
+  .countdown-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .countdown-item {
+    text-align: center;
+    border-radius: 8px;
+    background-color: #8fbaf7;
+    margin: 30px;
+    padding: 20px;
+    box-shadow: -10px -5px 5px rgb(130, 188, 222);
+  }
+  
+  .countdown-label {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: sans-serif;
+  }
+  
+  .countdown-value {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+    font-family: sans-serif;
+  }
+  
